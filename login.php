@@ -1,6 +1,9 @@
 <?php
 
-session_start();
+if(!isset($_SESSION)) 
+     { 
+         session_start(); 
+     }
 
 ?>
 
@@ -171,7 +174,8 @@ session_start();
 <?php
 if(isset($_POST['submit'])) {
     
-    include ($_SERVER['DOCUMENT_ROOT'] . "/connection.php");
+    // include ($_SERVER['DOCUMENT_ROOT'] . "/connection.php");
+    include ("connection.php");
 
     $email = $_POST['email'];
     $pwd = $_POST['pwd'];
@@ -269,7 +273,8 @@ else {
 
 
 
-include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+// include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+include("connection.php");
 
 
 

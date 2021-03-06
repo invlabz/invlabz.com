@@ -58,7 +58,8 @@
 
 			<?php
 
- include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+//  include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+ include ("Admin/connection.php");
 
 
 
@@ -146,7 +147,8 @@
 
 
 
-    include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+    // include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+    include ("Admin/connection.php");
 
     // Get file name
 

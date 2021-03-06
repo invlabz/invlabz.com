@@ -836,7 +836,8 @@ if (isset($_GET['message']))
 
 
 
-include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+// include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+include("connection.php");
 
 
 

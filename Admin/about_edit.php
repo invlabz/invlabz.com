@@ -34,7 +34,8 @@
 			<!-- Main Content -->
 			<?php
 
-    include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+    // include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+    include ("Admin/connection.php");
 
     $fetchqry = "SELECT * FROM `about_aboutus` ORDER BY id ASC";
 

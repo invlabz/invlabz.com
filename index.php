@@ -1,4 +1,8 @@
-<?php session_start(); ?>
+<?php if(!isset($_SESSION)) 
+     { 
+         session_start(); 
+     }
+?>
 
 <!doctype html>
 
@@ -672,7 +676,7 @@
 
                             <div class="col-lg-4">
 
-                                <div class="single-pricing-table left-align "  style="min-height: 620px !important;">
+                                <div class="single-pricing-table left-align "  ><!-- style="min-height: 620px !important;" -->
 
                                     <?php
                                     include("connection.php");
@@ -694,14 +698,14 @@
                                             <!--<del style=" font-size: 18px!important;">Free</del>-->
 
                                          
-                                        <del style=" font-size: 18px!important;"><?php echo $row['selling_price']; ?></del>
+                                        <!-- <del style=" font-size: 18px!important;"><?php echo $row['selling_price']; ?></del> -->
 
                                          
 
 
                                         <span style=" font-size: 20px!important;"><?php echo $row['discounted_price']; ?></span>
 
-                                        
+                                        <span style=" font-size: 10px!important;">For lifetime</span>
 
                                     </div>
 
@@ -709,13 +713,11 @@
 
                                     <ul class="pricing-features ">
 
-                                        <li><i class="bx bxs-badge-check "></i>Free for one year. </li>
-
                                         <li><i class="bx bxs-badge-check "></i>Have access to both PhyLab and ChemLab.</li>
 
-                                        <li><i class="bx bxs-badge-check "></i>PhyLab - Have access to 2 experiments out of 20 experiments. </li>
+                                        <li><i class="bx bxs-badge-check "></i>PhyLab - Have access to 2 experiments. </li>
 
-                                        <li><i class="bx bxs-badge-check "></i>ChemLab - Have access to 1 experiment out of 24 experiments. </li>
+                                        <li><i class="bx bxs-badge-check "></i>ChemLab - Have access to 1 experiment. </li>
 
                                         <br>
 
@@ -731,7 +733,7 @@
 
                             <div class="col-lg-4">
 
-                                <div class="single-pricing-table left-align " style="padding-bottom: 54px; min-height: 620px !important;">
+                                <div class="single-pricing-table left-align " style="padding-bottom: 54px; "><!-- min-height: 620px !important; -->
 
                                 <?php
                                     include("connection.php");
@@ -762,6 +764,7 @@
 
                                 
 
+                                        <span style=" font-size: 10px!important;">Per Year</span>
                                         
 
                                     </div>
@@ -770,20 +773,13 @@
 
                                     <ul class="pricing-features ">
 
-                                        <li><i class="bx bxs-badge-check "></i>500 Discounted to 300 per year.</li>
+                                        <li><i class="bx bxs-badge-check "></i>Either PhyLab or ChemLab</li>
 
-                                        <li><i class="bx bxs-badge-check "></i>Either PhyLab or ChemLab (Provide buttons at the bottom to choose for each one).</li>
+                                        <li><i class="bx bxs-badge-check "></i>PhyLab - Have access to all experiments.</li>
 
-                                        <li><i class="bx bxs-badge-check "></i>PhyLab - Have access to all 20 experiments.</li>
-
-                                         <li><i class="bx bxs-badge-check "></i>ChemLab - Have access to all 24 experiments.</li>
+                                         <li><i class="bx bxs-badge-check "></i>ChemLab - Have access to all experiments.</li>
 
                                          <br><br> 
-
-                                        <li></li>
-
-                                        <li></li>
-
                                          
 
                                     </ul>
@@ -800,7 +796,7 @@
 
                             <div class="col-lg-4 ">
 
-                                <div class="single-pricing-table left-align "  style="padding-bottom: 21px; min-height: 620px !important;">
+                                <div class="single-pricing-table left-align "  style="padding-bottom: 21px; "> <!-- min-height: 620px !important; -->
 
                                 <?php
                                     include("connection.php");
@@ -832,6 +828,8 @@
                                        
 
 
+                                        <span style=" font-size: 10px!important;">Per Year</span>
+
                                         
 
                                     </div>
@@ -840,22 +838,13 @@
 
                                     <ul class="pricing-features ">
 
-                                        <li><i class="bx bxs-badge-check "></i>1000 Discounted to 500 per year. </li>
-
                                         <li><i class="bx bxs-badge-check "></i>Both PhyLab and ChemLab.</li>
 
-                                        <li><i class="bx bxs-badge-check "></i>PhyLab - Have access to all 20 experiments.</li>
+                                        <li><i class="bx bxs-badge-check "></i>PhyLab - Have access to all experiments.</li>
 
-                                           <li><i class="bx bxs-badge-check "></i>ChemLab - Have access to all 24 experiments.</li>
+                                           <li><i class="bx bxs-badge-check "></i>ChemLab - Have access to all experiments.</li>
 
-                                        <br><br> <br><br> 
-
-                                        <li></li>
-
-                                       
-
-
-
+                                        <br><br>
                                     </ul>
 
                                         <div class="btn-box "><a href="/signup.php?plan=<?php  echo $row2['plan_name'] ?>&amount=<?php echo $row2['discounted_price'] ?>" class="default-btn " style="    background-color: #080a3c;"><i class="bx bxs-hot text-danger"></i>Sign Up <span style="top: 31.2188px; left: -10.5px; "></span></a></div>
@@ -894,7 +883,7 @@
 
             <div class="section-title ">
 
-                <h2>Why choose us to watch this video know more</h2>
+                <h2>Why choose us - VIDEO</h2>
 
             </div>
 
@@ -904,7 +893,8 @@
 
                 
 
-                <div class="col-md-6 col-10"> <div class="video-box "><img src="assets/img/video-bg.jpeg " class="main-image " alt="image "><a href="#" class="video-btn popup-youtube "><i class="bx bx-play "></i></a>
+                <div class="col-md-6 col-10"> <div class="video-box "><img src="assets/img/video-bg.jpeg " class="main-image " alt="image ">
+                <a href="#" class="video-btn popup-youtube "><i class="bx bx-play "></i></a>
 
                 <div class="shape1 "><img src="assets/img/shape/1.png " alt="image "></div>
 
@@ -960,7 +950,7 @@
 
            
 
-            <div class="funfacts-inner">
+            <div class="funfacts-inner" style="display: none;">
 
                 <div class="row">
 
@@ -1129,7 +1119,8 @@
 
 
 
-include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+// include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+include("connection.php");
 
 
 

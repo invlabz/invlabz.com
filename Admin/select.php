@@ -98,7 +98,8 @@
 
 
 										  <?php
-    include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+    // include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+    include ("Admin/connection.php");
 
     $query = "SELECT * FROM teams ORDER BY id ASC";
 

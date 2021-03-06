@@ -1,4 +1,7 @@
-<?php session_start(); ?>
+<?php if(!isset($_SESSION)) 
+     { 
+         session_start(); 
+     } ?>
 
 
 <!doctype html>
@@ -166,7 +169,8 @@
 
 <?php
 
-               include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+              //  include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+               include ("Admin/connection.php");
 
                 $query = "SELECT * FROM blog ORDER BY RAND() ASC LIMIT 3 ";
 
@@ -194,15 +198,15 @@
             <div class="col-lg-4 col-md-6">
                 <div class="single-blog-post">
                     <div class="post-image">
-                        <a href="/blog-single.php?id=<?php echo $row['id']; ?>"><img src="/Admin/<?php echo $row['image']; ?>" width="860px !important;" height="700px !important;"  alt="image"></a>
+                        <a href="blog-single.php?id=<?php echo $row['id']; ?>"><img src="/Admin/<?php echo $row['image']; ?>" width="860px !important;" height="700px !important;"  alt="image"></a>
                         <div class="date"><i class="bx bx-calendar"></i><?php echo $row['date']; ?></div>
                     </div>
                     <div class="post-content">
-                        <h3><a href="/blog-single.php?id=<?php echo $row['id']; ?>"><?php echo $row['title']; ?></a></h3>
+                        <h3><a href="blog-single.php?id=<?php echo $row['id']; ?>"><?php echo $row['title']; ?></a></h3>
                         <div class="post-info">
                             <div class="post-by"> <img src="assets/img/author-image/1.jpg" alt="image">
                                 <h6><?php echo $row['author']; ?></h6> </div>
-                            <div class="details-btn"> <a href="/blog-single.php?id=<?php echo $row['id']; ?>"><i class="bx bx-right-arrow-alt"></i></a> </div>
+                            <div class="details-btn"> <a href="blog-single.php?id=<?php echo $row['id']; ?>"><i class="bx bx-right-arrow-alt"></i></a> </div>
                         </div>
                     </div>
                 </div>
@@ -237,7 +241,8 @@
 
 
 
-include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+// include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+include("connection.php");
 
 
 

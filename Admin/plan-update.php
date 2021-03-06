@@ -1,5 +1,6 @@
 <?php 
-include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+// include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+include ("Admin/connection.php");
 
 if (isset($_POST['basic'])) {
 

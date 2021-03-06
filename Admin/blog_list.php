@@ -2,7 +2,10 @@
 <?php ob_start(); ?>
 
 <?php
-session_start();
+if(!isset($_SESSION)) 
+{ 
+	session_start(); 
+}
  include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/header.php");
 ?>
 
@@ -103,7 +106,8 @@ session_start();
 
 
 										  <?php
-    include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+    // include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+    include ("Admin/connection.php");
 
     $query = "SELECT * FROM blog ORDER BY id ASC";
 

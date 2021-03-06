@@ -1,4 +1,7 @@
-<?php session_start(); ?>
+<?php if(!isset($_SESSION)) 
+     { 
+         session_start(); 
+     } ?>
 <!doctype html>
 <html lang="en">
    <head>
@@ -60,7 +63,8 @@
          </div>
       </div>
       <?php 
-         include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+         // include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+         include("connection.php");
          
          	$id = $_GET['id'];
          
@@ -109,7 +113,8 @@
 
          <?php
 
-               include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+               // include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+               include ("Admin/connection.php");
 
                  $query = "SELECT * FROM blog ORDER BY RAND() ASC LIMIT 3 ";
 
@@ -172,7 +177,8 @@
       </section>
      
       <?php 
-         include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+         // include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+         include("connection.php");
          
          
          

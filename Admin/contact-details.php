@@ -100,7 +100,8 @@
 
 
 										  <?php
-    include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+    // include ($_SERVER['DOCUMENT_ROOT'] . "/Admin/connection.php");
+    include ("Admin/connection.php");
 
     $query = "SELECT * FROM contact_details ORDER BY id ASC";
 

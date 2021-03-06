@@ -1,4 +1,7 @@
-<?php session_start(); ?>
+<?php if(!isset($_SESSION)) 
+     { 
+         session_start(); 
+     } ?>
 
 <style type="text/css">
 
@@ -603,7 +606,8 @@
 
 
 
-include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+// include($_SERVER['DOCUMENT_ROOT']."/connection.php");
+include("connection.php");
 
 
 
