@@ -1,0 +1,176 @@
+[20-Feb-2021 08:57:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 08:57:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 650
+[20-Feb-2021 08:57:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 652
+[20-Feb-2021 08:57:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 08:57:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1152
+[20-Feb-2021 08:57:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1154
+[20-Feb-2021 09:04:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 09:04:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 650
+[20-Feb-2021 09:04:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 652
+[20-Feb-2021 09:04:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 09:04:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1152
+[20-Feb-2021 09:04:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1154
+[20-Feb-2021 09:33:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 09:33:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 650
+[20-Feb-2021 09:33:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 652
+[20-Feb-2021 09:33:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 09:33:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1152
+[20-Feb-2021 09:33:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1154
+[20-Feb-2021 09:34:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 09:34:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 650
+[20-Feb-2021 09:34:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 652
+[20-Feb-2021 09:34:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 09:34:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1152
+[20-Feb-2021 09:34:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1154
+[20-Feb-2021 09:34:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 09:34:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 269
+[20-Feb-2021 09:34:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 271
+[20-Feb-2021 09:34:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 09:34:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 650
+[20-Feb-2021 09:34:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 652
+[20-Feb-2021 09:34:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 09:34:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1152
+[20-Feb-2021 09:34:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1154
+[20-Feb-2021 09:34:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 09:34:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/chemlab.php on line 605
+[20-Feb-2021 09:34:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/chemlab.php on line 607
+[20-Feb-2021 09:47:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 09:47:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 650
+[20-Feb-2021 09:47:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 652
+[20-Feb-2021 09:47:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 09:47:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1152
+[20-Feb-2021 09:47:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1154
+[20-Feb-2021 09:47:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/Admin/connection.php on line 8
+[20-Feb-2021 09:47:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/blogs.php on line 173
+[20-Feb-2021 09:47:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/blogs.php on line 185
+[20-Feb-2021 09:47:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 09:47:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/blogs.php on line 246
+[20-Feb-2021 09:47:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/blogs.php on line 248
+[20-Feb-2021 10:04:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 10:04:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 650
+[20-Feb-2021 10:04:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 652
+[20-Feb-2021 10:04:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 10:04:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1152
+[20-Feb-2021 10:04:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1154
+[20-Feb-2021 10:34:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 10:34:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 650
+[20-Feb-2021 10:34:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 652
+[20-Feb-2021 10:34:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 10:34:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1152
+[20-Feb-2021 10:34:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1154
+[20-Feb-2021 11:05:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 11:05:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 650
+[20-Feb-2021 11:05:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 652
+[20-Feb-2021 11:05:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 11:05:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1152
+[20-Feb-2021 11:05:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1154
+[20-Feb-2021 11:24:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 11:24:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 650
+[20-Feb-2021 11:24:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 652
+[20-Feb-2021 11:24:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 11:24:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1152
+[20-Feb-2021 11:24:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1154
+[20-Feb-2021 11:24:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 11:24:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/contact.php on line 845
+[20-Feb-2021 11:24:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/contact.php on line 847
+[20-Feb-2021 11:24:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 11:24:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 269
+[20-Feb-2021 11:24:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 271
+[20-Feb-2021 11:25:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 11:25:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 650
+[20-Feb-2021 11:25:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 652
+[20-Feb-2021 11:25:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/fmakcpcu/saumya.agumentikgroup.com/connection.php on line 8
+[20-Feb-2021 11:25:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1152
+[20-Feb-2021 11:25:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/fmakcpcu/saumya.agumentikgroup.com/index.php on line 1154
+[21-Feb-2021 08:14:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/signup.php:2) in /home/fmakcpcu/saumya.agumentikgroup.com/signup.php on line 209
+[27-Feb-2021 08:19:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 186
+[27-Feb-2021 08:19:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/login.php:1) in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 192
+[27-Feb-2021 08:21:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 186
+[27-Feb-2021 08:21:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/login.php:1) in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 192
+[27-Feb-2021 08:28:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 186
+[27-Feb-2021 08:28:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/login.php:1) in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 193
+[27-Feb-2021 08:29:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 186
+[27-Feb-2021 08:29:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/login.php:1) in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 193
+[27-Feb-2021 08:32:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 3
+[27-Feb-2021 08:35:25 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 3
+[27-Feb-2021 08:35:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 3
+[27-Feb-2021 08:37:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 3
+[27-Feb-2021 08:38:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 3
+[27-Feb-2021 08:39:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 3
+[27-Feb-2021 08:39:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/login.php:1) in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 192
+[27-Feb-2021 08:41:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 3
+[27-Feb-2021 08:41:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/login.php:1) in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 198
+[27-Feb-2021 08:48:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 6
+[27-Feb-2021 08:48:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/logout.php:1) in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 17
+[27-Feb-2021 08:48:37 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 22
+[27-Feb-2021 08:48:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 6
+[27-Feb-2021 08:48:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/logout.php:1) in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 17
+[27-Feb-2021 08:48:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 22
+[27-Feb-2021 08:50:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 6
+[27-Feb-2021 08:50:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 7
+[27-Feb-2021 08:50:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/logout.php:1) in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 17
+[27-Feb-2021 08:50:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 6
+[27-Feb-2021 08:50:21 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 7
+[27-Feb-2021 08:50:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/logout.php:1) in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 17
+[27-Feb-2021 08:51:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 6
+[27-Feb-2021 08:51:20 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 7
+[27-Feb-2021 08:51:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/logout.php:1) in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 17
+[27-Feb-2021 08:51:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 6
+[27-Feb-2021 08:51:24 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 7
+[27-Feb-2021 08:51:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/logout.php:1) in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 17
+[27-Feb-2021 08:52:08 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 5
+[27-Feb-2021 08:52:12 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 5
+[27-Feb-2021 08:53:34 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 8
+[27-Feb-2021 08:53:39 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 8
+[27-Feb-2021 08:53:56 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 8
+[27-Feb-2021 08:54:50 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 10
+[27-Feb-2021 08:55:10 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 8
+[27-Feb-2021 08:55:36 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 8
+[27-Feb-2021 08:57:18 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 8
+[27-Feb-2021 08:57:21 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 8
+[27-Feb-2021 08:58:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/navbar.php on line 3
+[27-Feb-2021 08:58:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/navbar.php on line 3
+[27-Feb-2021 08:58:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/login.php:1) in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 198
+[27-Feb-2021 08:59:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/login.php:6) in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 202
+[27-Feb-2021 09:00:08 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 8
+[27-Feb-2021 09:00:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 8
+[27-Feb-2021 09:01:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 4
+[27-Feb-2021 09:01:00 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 9
+[27-Feb-2021 09:01:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 4
+[27-Feb-2021 09:01:23 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/fmakcpcu/saumya.agumentikgroup.com/logout.php on line 9
+[27-Feb-2021 09:03:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/login.php:6) in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 202
+[27-Feb-2021 09:04:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/login.php:6) in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 202
+[01-Mar-2021 17:43:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/login.php:6) in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 202
+[02-Mar-2021 06:57:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/login.php:6) in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 202
+[03-Mar-2021 09:44:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fmakcpcu/saumya.agumentikgroup.com/login.php:6) in /home/fmakcpcu/saumya.agumentikgroup.com/login.php on line 202
+[03-Mar-2021 11:22:33 UTC] PHP Warning:  require(manual.php): failed to open stream: No such file or directory in /home/fmakcpcu/saumya.agumentikgroup.com/pay.php on line 74
+[03-Mar-2021 11:22:33 UTC] PHP Warning:  require(manual.php): failed to open stream: No such file or directory in /home/fmakcpcu/saumya.agumentikgroup.com/pay.php on line 74
+[03-Mar-2021 11:22:33 UTC] PHP Fatal error:  require(): Failed opening required 'manual.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmakcpcu/saumya.agumentikgroup.com/pay.php on line 74
+[03-Mar-2021 11:24:01 UTC] PHP Warning:  require(manual.php): failed to open stream: No such file or directory in /home/fmakcpcu/saumya.agumentikgroup.com/pay.php on line 77
+[03-Mar-2021 11:24:01 UTC] PHP Warning:  require(manual.php): failed to open stream: No such file or directory in /home/fmakcpcu/saumya.agumentikgroup.com/pay.php on line 77
+[03-Mar-2021 11:24:01 UTC] PHP Fatal error:  require(): Failed opening required 'manual.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/fmakcpcu/saumya.agumentikgroup.com/pay.php on line 77
+[03-Mar-2021 11:30:45 UTC] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: The api key provided is invalid in /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Request.php:123
+Stack trace:
+#0 /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 401, Object(Requests_Response))
+#1 /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/fmakcpcu/saumya.agumentikgroup.com/pay.php(18): Razorpay\Api\Order->create(Array)
+#6 {main}
+  thrown in /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Request.php on line 123
+[05-Mar-2021 03:06:03 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/navbar.php on line 3
+[05-Mar-2021 03:18:02 UTC] PHP Fatal error:  Uncaught Razorpay\Api\Errors\BadRequestError: The currency field is required. in /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Request.php:120
+Stack trace:
+#0 /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Request.php(90): Razorpay\Api\Request->processError(Array, 400, Object(Requests_Response))
+#1 /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Request.php(44): Razorpay\Api\Request->checkErrors(Object(Requests_Response))
+#2 /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Entity.php(59): Razorpay\Api\Request->request('POST', 'https://api.raz...', Array)
+#3 /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Entity.php(15): Razorpay\Api\Entity->request('POST', 'orders/', Array)
+#4 /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Order.php(12): Razorpay\Api\Entity->create(Array)
+#5 /home/fmakcpcu/saumya.agumentikgroup.com/pay.php(18): Razorpay\Api\Order->create(Array)
+#6 {main}
+  thrown in /home/fmakcpcu/saumya.agumentikgroup.com/razorpay-php/src/Request.php on line 120
+[05-Mar-2021 09:19:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/navbar.php on line 3
+[05-Mar-2021 11:48:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/navbar.php on line 3
+[05-Mar-2021 11:52:40 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/navbar.php on line 3
+[05-Mar-2021 11:55:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/fmakcpcu/saumya.agumentikgroup.com/navbar.php on line 3
